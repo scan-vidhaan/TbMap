@@ -1,3 +1,3 @@
 <?php
-include_once("clue1.html");
+include_once("index.html");
 />
